@@ -1,0 +1,23 @@
+example_id                                   | status | run_time        |
+-------------------------------------------- | ------ | --------------- |
+./spec/backup/twitter_spec.rb[1:1]           | passed | 0.00236 seconds |
+./spec/backup/twitter_spec.rb[1:2]           | passed | 0.00213 seconds |
+./spec/notifier/twitter_spec.rb[1:1:1:1]     | passed | 0.00048 seconds |
+./spec/notifier/twitter_spec.rb[1:1:1:2]     | passed | 0.00026 seconds |
+./spec/notifier/twitter_spec.rb[1:2:1:1:1:1] | passed | 0.00045 seconds |
+./spec/notifier/twitter_spec.rb[1:2:1:1:2:1] | passed | 0.00039 seconds |
+./spec/notifier/twitter_spec.rb[1:2:1:2:1:1] | passed | 0.00043 seconds |
+./spec/notifier/twitter_spec.rb[1:2:1:2:2:1] | passed | 0.00045 seconds |
+./spec/notifier/twitter_spec.rb[1:2:1:2:3:1] | passed | 0.00039 seconds |
+./spec/notifier/twitter_spec.rb[1:2:1:3:1:1] | passed | 0.00045 seconds |
+./spec/notifier/twitter_spec.rb[1:2:1:3:2:1] | passed | 0.00038 seconds |
+./spec/notifier/twitter_spec.rb[1:2:1:4:1:1] | passed | 0.00046 seconds |
+./spec/notifier/twitter_spec.rb[1:2:1:4:2:1] | passed | 0.0004 seconds  |
+./spec/notifier/twitter_spec.rb[1:2:1:5]     | passed | 0.01415 seconds |
+./spec/notifier/twitter_spec.rb[1:2:1:6]     | passed | 0.00136 seconds |
+./spec/notifier/twitter_spec.rb[1:3:1]       | passed | 0.00305 seconds |
+./spec/notifier/twitter_spec.rb[1:3:2]       | passed | 0.00017 seconds |
+./spec/notifier/twitter_spec.rb[1:4:1:1]     | passed | 0.0003 seconds  |
+./spec/notifier/twitter_spec.rb[1:4:2:1]     | passed | 0.00023 seconds |
+./spec/notifier/twitter_spec.rb[1:4:3:1]     | passed | 0.00023 seconds |
+./spec/notifier/twitter_spec.rb[1:5:1]       | passed | 0.00079 seconds |
